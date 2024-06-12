@@ -1,1 +1,2 @@
 # todoList
+This program utlizes the CLI to run a todoList with python. You can add and check things off the list. It saves the list in a txt document so you are able to save the progress of your list. It demonstrates using python to write into a txt document and functions to accomplish a task.
